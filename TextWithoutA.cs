@@ -23,7 +23,8 @@ class TextWithoutA
 
             if (hasA)
             {
-                Console.Write("There is an \"a\" or an \"A\", "); Console.WriteLine("Enter another frase");
+                Console.Write("There is an \"a\" or an \"A\", "); 
+                Console.WriteLine("Enter another frase");
             }
         }
         while (hasA);
